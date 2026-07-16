@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Update the <loc> once a custom domain is set. -->
 <urlset xmlns="http://www.sitemap.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://deniz-dalgic.example.com/</loc>
+    <loc>https://ddalgic.com/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>

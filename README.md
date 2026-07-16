@@ -24,21 +24,12 @@ expertise/credentials, and publications.
 
 ## Before you publish — fill in the placeholders
 
-A few things are intentionally left as clearly-marked placeholders:
+The site is configured for the custom domain **`ddalgic.com`** (see the `CNAME`
+file and the absolute URLs in `index.html`, `robots.txt`, and `sitemap.xml`).
+All internal links and asset paths are **relative**, so the site also works at
+`https://<username>.github.io/deniz-resume/` without changes.
 
-1. **Contact details** — in `index.html`, the Contact section (`#contact`) has a
-   `TODO` comment. Replace the `mailto:hello@example.com` email, the LinkedIn URL,
-   and the Scholar URL with the real ones (or remove any card you don't want).
-2. **Domain / SEO URLs** — several tags use `https://deniz-dalgic.example.com/`
-   as a placeholder: `<link rel="canonical">`, the `og:url`/`og:image` meta tags,
-   and the JSON-LD `url`/`image` in `index.html`, plus `robots.txt` and
-   `sitemap.xml`. Once you pick a domain, do a find-and-replace on
-   `deniz-dalgic.example.com` and update the relative `assets/headshot.jpg`
-   image URLs to absolute ones so link previews render.
-
-All internal links and asset paths are **relative**, so the site works both at
-`https://<username>.github.io/deniz-resume/` and at a custom domain root without
-any changes.
+Contact details (email + LinkedIn) are already filled in the Contact section.
 
 ## Editing content
 

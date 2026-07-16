@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# When you set a custom domain, update the Sitemap URL below.
-Sitemap: https://deniz-dalgic.example.com/sitemap.xml
+Sitemap: https://ddalgic.com/sitemap.xml
